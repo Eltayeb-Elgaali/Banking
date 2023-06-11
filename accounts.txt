@@ -1,1 +1,5 @@
 credits accounts is 123
+loan accounts is :
+987
+657
+543
